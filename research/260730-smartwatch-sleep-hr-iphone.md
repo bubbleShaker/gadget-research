@@ -90,7 +90,7 @@ Garmin は 10日以上持つので、この運用課題がほぼ消える。**�
 両機種とも睡眠ステージ・安静時心拍・**夜間 HRV** を計測し、睡眠スコアとコーチングを出す。
 
 - **vívoactive 6（52,800円）**: 約11日持つ。**36g と軽く、寝るときに着けていて負担が少ない**（Venu 4 は金属筐体で重い）。睡眠計測目的なら装着快適性は無視できない要素。
-- **Venu 4（79,800円）**: 皮膚温センサー、**睡眠時の呼吸モニタリング（いびき・無呼吸）**、カフェイン・アルコール摂取などの生活要因を織り込んだ睡眠コーチングに対応。睡眠分析としてはこちらが上位。
+- **Venu 4（79,800円）**: 皮膚温センサー、**睡眠時の呼吸モニタリング（いびき・無呼吸）**、カフェイン・アルコール摂取などの生活要因を織り込んだ睡眠コーチングに対応。睡眠分析としてはこちらが上位。**ECG（心電図）アプリは2025年4月23日に厚生労働省の認可を取得済みで、日本でも利用できる**。Suica にも対応。
 
 iPhone との連携は Garmin Connect App 経由。通知の受信はできるが、**メッセージへの返信など iOS 側の制約で Apple Watch ほど深くは連携できない**。ヘルスケア App への同期は可能。
 
@@ -101,7 +101,7 @@ iPhone との連携は Garmin Connect App 経由。通知の受信はできる�
 ### 4.6 WHOOP 5.0 / Oura Ring 4 — 睡眠・回復に特化
 
 - **WHOOP 5.0**: 画面なしのバンド。日本では12ヶ月メンバーシップ込みで 44,092円程度。**サブスクを止めるとデバイスが動かなくなる**点に注意。睡眠データを日々のトレーニング負荷と結びつけた「リカバリースコア」が売り。
-- **Oura Ring 4**: 指輪型、52,800円〜（チタンモデル 59,800円）＋メンバーシップ 月999円 / 年11,800円。iPhone 対応。指での計測は手首より血流信号を拾いやすく、睡眠計測の評価は高い。ただし**時計としての機能はゼロ**なので、今回の「スマートウォッチが欲しい」という要件からは外れる。
+- **Oura Ring 4**: 指輪型のチタン製。Silver / Black が 52,800円、Brushed Silver / Stealth が 59,800円、Gold / Rose Gold が 74,800円（すべて税込）。加えてメンバーシップ 月999円 / 年11,800円（購入後1ヶ月無料）。iPhone 対応。指での計測は手首より血流信号を拾いやすく、睡眠計測の評価は高い。ただし**時計としての機能はゼロ**なので、今回の「スマートウォッチが欲しい」という要件からは外れる。
 
 > 参考: **Galaxy Ring / Galaxy Watch は iPhone では使えない**（Samsung のエコシステム前提）。iPhone ユーザーは候補から除外してよい。
 
@@ -194,6 +194,8 @@ Garmin を選ぶ場合は、Venu 4 / vívoactive 6 とも2025年後半の製品�
 - [Apple Watch Series 12は2026年9月に登場するのか？ - Smart Watch Life](https://www.smartwatchlife.jp/72692/)
 - [Apple Watch Series 12 でバンドコレクションが全滅か - BigGo](https://finance.biggo.jp/news/202607030025_Apple_Watch_Series_12_redesign_may_end_band_compatibility)
 - [vívoactive 6 - Garmin 日本](https://www.garmin.co.jp/products/wearables/vivoactive-6-black/)
+- [心電図アプリ対応スマートウォッチ - Garmin 日本](https://www.garmin.co.jp/products/wearables/?cat=ecg)
+- [ガーミン、ついに心電図対応 最新モデル以外も - Impress Watch](https://www.watch.impress.co.jp/docs/news/2009400.html)
 - [Garmin Venu 4 vs Vivoactive 6 - gadgetsandwearables](https://gadgetsandwearables.com/2025/10/02/garmin-venu-4-vs-vivoactive-6/)
 - [Garmin Venu 4 vs Vivoactive 6 - Woman & Home](https://www.womanandhome.com/health-wellbeing/fitness/garmin-venu-vs-vivoactive/)
 - [Garmin Venu 4とvivoactive 6の違いを徹底比較 - トアブログ](https://toablog.jp/venu4-vivoactive6-hikaku/)
